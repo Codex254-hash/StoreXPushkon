@@ -3,12 +3,12 @@ global.calender = d.toLocaleDateString('id')
 
 // --------------- INFO OWNER ------------- //
 global.prefix = "." // command prefix
-global.ownNumb = "62895615063060" // isi no kalian
-global.ownName = "https://ī.am/alfisyahrial" // isi nama kalian
-global.namaCreator ="https://ī.am/alfisyahrial"
+global.ownNumb = "233549772750" // isi no kalian
+global.ownName = "Andrew" // isi nama kalian
+global.namaCreator ="Andrew"
 global.versionSc ="3.0"
 global.namaBot ="𝙁𝙄𝙓𝙓𝙀𝙉 V3"
-global.linkgc ="https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C"
+global.linkgc ="https://chat.whatsapp.com/G97cT3HvMVd0lY95rnLGym"
 global.namaproduk ="BY 𝙁𝙄𝙓𝙓𝙀𝙉"
 global.namaStore ="𝙁𝙄𝙓𝙓𝙀𝙉 𝙎𝙏𝙊𝙍𝙀"
 global.packname = '𝙁𝙄𝙓𝙓𝙀𝙉' // ubah aja ini nama sticker
