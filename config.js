@@ -3,7 +3,7 @@ global.calender = d.toLocaleDateString('id')
 
 // --------------- INFO OWNER ------------- //
 global.prefix = "." // command prefix
-global.ownNumb = "233549772750" // isi no kalian
+global.ownNumb = "254799974913" // isi no kalian
 global.ownName = "Andrew" // isi nama kalian
 global.namaCreator ="Andrew"
 global.versionSc ="3.0"
